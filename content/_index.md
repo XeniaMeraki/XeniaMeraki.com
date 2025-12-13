@@ -1,5 +1,4 @@
 +++
-insert_anchor_links = "left"
 title = "Home"
 +++
 
@@ -10,6 +9,6 @@ Heya hiya! I’m a trans woman and general online creator. I’m a vtuber, fanta
 
 Youtuber | Vtuber | Writer | FGC | Pansexual | Autistic | Leftist | She/Her | DMs Always Open | Pings Always Okay! | Transfem | Transfem Helper | Linux User | Neet | ADHD | Weeb | US AZ | 30s | Anxiety | On HRT since Jan ’24 | Animation Enjoyer | Progressive | Touhou Liker | Musician | Community Runner | Admin/Mod | Electronics Geek | PC Gamer | Disabled | Atheist | Soldering Knower | Controller and Keyboard Modder | FOSS Liker | Nerd | Hedonist | Furry | Communist | Self Hoster
 
-Simply, I’m a nerdy trans woman. I like to think I’m decently chill to talk to and approach. I don’t like “Dude” and people who I don’t know they/theming me that much. Despite having greek names, I’m not greek. I’m italian american, but I mostly denounce my nationality and my family name. My first name is partially but not entirely inspired by the [linux fox](https://xenia.efi.pages.gay/). I actually just kinda love the concept of [xenia](https://en.wikipedia.org/wiki/Xenia_(Greek)).
+Despite having greek names, I’m not greek. I’m italian american, but I mostly denounce my nationality and my family name. My first name is partially but not entirely inspired by the [linux fox](https://xenia.efi.pages.gay/). I actually just kinda love the concept of [xenia](https://en.wikipedia.org/wiki/Xenia_(Greek)).
 
 

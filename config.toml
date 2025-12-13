@@ -30,7 +30,7 @@ index_format = "fuse_json"
 
 [extra]
 styles = [
-  "fonts.scss",
+  "fonts.css",
 ]
 # Which theme should be used by default (light/dark)
 default_theme = "dark"

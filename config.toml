@@ -1,0 +1,182 @@
+title = "Xenia"
+base_url = "https://xeniameraki.com"
+description = "My purrrsonal blog."
+theme = "duckquill"
+
+compile_sass = true
+minify_html = true
+generate_feeds = true
+feed_filenames = ["rss.xml", "atom.xml"]
+build_search_index = true
+author = "Xenia Meraki"
+default_language = "en"
+taxonomies = [{ name = "tags", feed = true }]
+
+# Based on https://github.com/welpo/tabi
+# Theme: https://duckquill.daudix.one/
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+highlight_themes_css = [
+	{ theme = "solarized-dark", filename = "syntax-theme-dark.css" },
+	{ theme = "solarized-light", filename = "syntax-theme-light.css" }
+]
+smart_punctuation = true
+bottom_footnotes = true
+
+[search]
+# index_format = "elasticlunr_json"
+index_format = "fuse_json"
+
+[extra]
+# Which theme should be used by default (light/dark).
+#
+default_theme = "dark"
+#
+# Sets theme and browser theme color.
+# See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color
+accent_color = "#ff7800"
+# Ditto but for the dark theme.
+# If not set regular variant will be used.
+accent_color_dark = "#ffa348"
+# Whether to use fonts bundled with Duckquill instead of system ones.
+# Keep in mind that it also changes the style of headings.
+emoji_favicon = "🦊"
+bundled_fonts = true
+# URL to website's source code
+source_url = "https://github.com/XeniaMeraki/XeniaMeraki.com"
+# Additional CSS styles; expects them to be in the "./static/" directory.
+# If you are using Sass it will be generated there automatically.
+#
+# styles = [
+#   "YOUR_STYLE.css",
+#   "ALSO_YOUR_STYLE.css"
+# ]
+#
+# Additional JavaScript scripts; expects them to be in the "./static/" directory.
+#
+# scripts = [
+#   "YOUR_SCRIPT.js",
+#   "ALSO_YOUR_SCRIPT.js"
+# ]
+#
+# Whether to show "copy code" button on all code blocks
+# that have the language set.
+# See https://www.getzola.org/documentation/content/syntax-highlighting/
+show_copy_button = true
+# Whether to show estimated read time in posts.
+show_reading_time = true
+#
+# Whether to show a share button in article's quick actions.
+# Uses https://shareopenly.org.
+show_share_button = true
+# Whether to show the backlinks button for linked articles in the article's quick actions
+show_backlinks = true
+# Whether to enable the KaTeX library for rendering LaTeX.
+# Note: This will make your page significantly heavier.
+# Instead, consider enabling it per page/section.
+# katex = true
+#
+# Whether to render table of contents on all pages.
+# Will not be rendered if page doesn't have any headings.
+# Can be set per page/section.
+toc = true
+#
+# Whether to render inline table of contents at the top of all pages,
+# in addition to floating quick navigation buttons.
+# Can be set per page/section.
+toc_inline = true
+#
+# Whether to use numbered (ordered) list for table of contents.
+# Can be set per page/section.
+# toc_ordered = true
+#
+# Custom separator used across the theme.
+# separator = "•"
+# Custom separator used in title tag and posts metadata.
+# title_separator = "-"
+#
+# Whether to use Content Security Policy.
+# Keep in mind that although this can potentially increase security,
+# it can break some stuff, in which case you will need to set custom policy.
+csp = [
+	{ directive = "font-src", domains = ["'self'"] },
+	{ directive = "img-src", domains = ["'self'", "https:", "data:"] },
+	{ directive = "media-src", domains = ["'self'", "https:"] },
+	{ directive = "script-src", domains = ["'self'"] },
+	{ directive = "style-src", domains = ["'self'", "'unsafe-inline'"] },
+	{ directive = "frame-src", domains = ["https://player.vimeo.com", "https://www.youtube-nocookie.com", "https://toot.community"] },
+	{ directive = "connect-src", domains = ["https://toot.community"] },
+	{ directive = "base-uri", domains = ["'none'"] },
+	{ directive = "form-action", domains = ["'none'"] }
+]
+# Uncomment this to disable the card displayed in share previews
+# card = false
+
+[extra.nav]
+# Whether to automatically hide nav when not hovered or focused
+# auto_hide = true
+# Whether to show the Atom/RSS feed button in the nav
+show_feed = true
+# Whether to show the manual theme switcher in the nav
+show_theme_switcher = true
+# Links used in the nav.
+# For local files use same link format as in Markdown,
+# i.e. "@/blog/_index.md".
+# See https://www.getzola.org/documentation/content/linking/#internal-links
+links = [
+		{ url = "@/blog/_index.md", name = "Blog" },
+		{ url = "@/xeniaos/_index.md", name = "XeniaOS" },
+		{ url = "@/links/_index.md", name = "Links" },
+	{ url = "https://ko-fi.com/xeniameraki", name = "Donate" }
+]
+[extra.footer]
+# Social links in the footer.
+# Any URL-encoded SVG can be used as an icon.
+# https://simpleicons.org is the recommended source of SVG icons.
+# For URL encoding use https://yoksel.github.io/url-encoder/.
+# Make sure that "external quotes" are set to "double".
+socials = [
+	{ url = "https://github.com/XeniaMeraki/XeniaOS", name = "GitHub", icon = "%3Csvg role='img' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3EGitHub%3C/title%3E%3Cpath d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E" },
+	{ url = "xeniameraki.bsky.social", name = "Bluesky", icon = "%3Csvg role='img' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3EBluesky%3C/title%3E%3Cpath d='M5.202 2.857C7.954 4.922 10.913 9.11 12 11.358c1.087-2.247 4.046-6.436 6.798-8.501C20.783 1.366 24 .213 24 3.883c0 .732-.42 6.156-.667 7.037-.856 3.061-3.978 3.842-6.755 3.37 4.854.826 6.089 3.562 3.422 6.299-5.065 5.196-7.28-1.304-7.847-2.97-.104-.305-.152-.448-.153-.327 0-.121-.05.022-.153.327-.568 1.666-2.782 8.166-7.847 2.97-2.667-2.737-1.432-5.473 3.422-6.3-2.777.473-5.899-.308-6.755-3.369C.42 10.04 0 4.615 0 3.883c0-3.67 3.217-2.517 5.202-1.026'/%3E%3C/svg%3E"},
+	{ url = "https://www.youtube.com/@BwarchTheGamer/videos", name = "Youtube", icon = "%3Csvg role='img' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3EYouTube%3C/title%3E%3Cpath d='M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z'/%3E%3C/svg%3E"},
+]
+# Whether to show "© Title, YEAR"
+show_copyright = false
+# Whether to show "Powered by Zola and Duckquill"
+show_powered_by = true
+# Whether to show link to website source
+show_source = true
+# Based on https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/
+#
+# Mastodon-powered commenting.
+# Values can be overridden in the front-matter, e.g.
+# for multi-author blogs or guest posts.
+#
+# These variables are also used for Mastodon verification,
+# the needed rel="me" link is set in the head based on these.
+#[extra.comments]
+# Your Mastodon API host; instance that you have an account on.
+#host = "vmst.io"
+# Your Mastodon username; used to determine who the original poster is.
+#user = "daudix"
+# Whether to show the QR code to Mastodon post
+#show_qr = true
+
+# GoatCounter analytics; enabled only if present in config.
+#[extra.goatcounter]
+# Your GoatCounter server; goatcounter.com is used by default.
+#
+# host = "YOUR_SERVER"
+#
+# Your GoatCounter username
+#user = "duckquill"
+
+#[extra.debug]
+# Display outlines around all elements for debugging purposes
+#layout = false
+# Don't load any styles for debugging purposes
+#no_styles = false
+
+[extra.fonts]
+styles = ["fonts.css"]

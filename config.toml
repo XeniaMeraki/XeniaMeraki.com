@@ -29,10 +29,12 @@ bottom_footnotes = true
 index_format = "fuse_json"
 
 [extra]
-# Which theme should be used by default (light/dark).
-#
+styles = [
+  "fonts.scss",
+]
+# Which theme should be used by default (light/dark)
 default_theme = "dark"
-# Sets theme and browser theme color.
+# Sets theme and browser theme color
 # See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color
 accent_color = "#ff7800"
 # Ditto but for the dark theme.
@@ -79,12 +81,12 @@ show_backlinks = true
 # Whether to render table of contents on all pages.
 # Will not be rendered if page doesn't have any headings.
 # Can be set per page/section.
-toc = true
+# toc = true
 #
 # Whether to render inline table of contents at the top of all pages,
 # in addition to floating quick navigation buttons.
 # Can be set per page/section.
-toc_inline = true
+# toc_inline = true
 #
 # Whether to use numbered (ordered) list for table of contents.
 # Can be set per page/section.

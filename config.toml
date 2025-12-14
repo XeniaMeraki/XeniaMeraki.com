@@ -50,6 +50,9 @@ source_url = "https://github.com/XeniaMeraki/XeniaMeraki.com"
 #   "YOUR_STYLE.css",
 #   "ALSO_YOUR_STYLE.css"
 # ]
+styles = [
+   "main.css"
+]
 #
 # Additional JavaScript scripts; expects them to be in the "./static/" directory.
 #

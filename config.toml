@@ -51,7 +51,7 @@ source_url = "https://github.com/XeniaMeraki/XeniaMeraki.com"
 #   "ALSO_YOUR_STYLE.css"
 # ]
 styles = [
-   "main.css"
+   "fonts.css"
 ]
 #
 # Additional JavaScript scripts; expects them to be in the "./static/" directory.

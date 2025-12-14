@@ -29,9 +29,6 @@ bottom_footnotes = true
 index_format = "fuse_json"
 
 [extra]
-styles = [
-  "fonts.css",
-]
 # Which theme should be used by default (light/dark)
 default_theme = "dark"
 # Sets theme and browser theme color
@@ -156,13 +153,13 @@ show_source = true
 #
 # These variables are also used for Mastodon verification,
 # the needed rel="me" link is set in the head based on these.
-#[extra.comments]
+[extra.comments]
 # Your Mastodon API host; instance that you have an account on.
-#host = "vmst.io"
+host = "bsky.social"
 # Your Mastodon username; used to determine who the original poster is.
-#user = "daudix"
+user = "xeniameraki"
 # Whether to show the QR code to Mastodon post
-#show_qr = true
+# show_qr = true
 
 # GoatCounter analytics; enabled only if present in config.
 #[extra.goatcounter]
@@ -178,6 +175,3 @@ show_source = true
 #layout = false
 # Don't load any styles for debugging purposes
 #no_styles = false
-
-[extra.fonts]
-styles = ["fonts.css"]

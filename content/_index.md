@@ -1,5 +1,8 @@
 +++
 title = "Home"
+disclaimer = disclaimer = """
+- My web prescence and this website are 18+ past this first page. I expect and depend on most people I interact with being adults. Please leave if you are a minor. By proceeding past this title page or clicking on any links you agree you are over the age of 18.
+"""
 +++
 
 # Xenia Meraki
@@ -11,4 +14,13 @@ Youtuber | Vtuber | Writer | FGC | Pansexual | Autistic | Leftist | She/Her | DM
 
 Despite having greek names, I’m not greek. I’m italian american, but I mostly denounce my nationality and my family name. My first name is partially but not entirely inspired by the [linux fox](https://xenia.efi.pages.gay/). I actually just kinda love the concept of [xenia](https://en.wikipedia.org/wiki/Xenia_(Greek)).
 
+My best and coolest projects you might be most interested in/I have worked the hardest on are my [gaming youtube channel, especially my vtuber videos and video essays](https://www.youtube.com/@BwarchTheGamer/videos)
+
+![Alt text](xeniavtuber.jpg "A screenshot of my youtube channel, various thumbnails I've made, and two superimposed shots of my vroid vtuber")
+
+My bootc image, [my personalized linux operating system XeniaOS](https://github.com/XeniaMeraki/XeniaOS)
+
+My various musical albums I've made, [world and ambient and electronic music](https://xeniameraki.bandcamp.com/)
+
+My [Discord Server I personally run](https://discord.gg/gkZWX4E), you might think that's silly to include but I'm genuinely proud of the community I've made, and it takes up a lot of my time talking in there and giving everyone's thoughts and projects my attention.
 

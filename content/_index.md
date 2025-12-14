@@ -1,6 +1,6 @@
 +++
 title = "Home"
-disclaimer = disclaimer = """
+disclaimer = """
 - My web prescence and this website are 18+ past this first page. I expect and depend on most people I interact with being adults. Please leave if you are a minor. By proceeding past this title page or clicking on any links you agree you are over the age of 18.
 """
 +++

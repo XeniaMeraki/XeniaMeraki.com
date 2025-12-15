@@ -19,9 +19,9 @@ My best and coolest projects you might be most interested in/I have worked the h
 
 ![Alt text](xeniavtuber.jpg "A screenshot of my youtube channel, various thumbnails I've made, and two superimposed shots of my vroid vtuber")
 
-My bootc image, [my personalized linux operating system XeniaOS](https://github.com/XeniaMeraki/XeniaOS)
+My bootc image: [My personalized linux operating system XeniaOS](https://github.com/XeniaMeraki/XeniaOS)
 
-My various musical albums I've made, [world and ambient and electronic music](https://xeniameraki.bandcamp.com/)
+My various musical albums I've made: [World and ambient and electronic music](https://xeniameraki.bandcamp.com/)
 
 My [Discord Server I personally run](https://discord.gg/gkZWX4E), you might think that's silly to include but I'm genuinely proud of the community I've made, and it takes up a lot of my time talking in there and giving everyone's thoughts and projects my attention.
 

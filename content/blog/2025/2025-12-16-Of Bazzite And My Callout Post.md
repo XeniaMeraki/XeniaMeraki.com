@@ -9,6 +9,8 @@ disclaimer = """
 """ 
 go_to_top = true 
 in_search_index = true
+[extra.comments]
+id = "agcqw1eenao50445"
 +++
  
 So! Past week has been interesting. On Dec 10th [Amelia](https://bsky.app/profile/ameliasvg.bsky.social/post/3m7nc2ukjds2k) and [I](https://bsky.app/profile/xeniameraki.bsky.social/post/3m7nejl4qxs22) jointly went through with our callout posts of pushing for Bazzite/Universal Blue to apply by their own Code of Conduct, and ban a toxic, basically abusive dev on their team. Shortly after a good few devs in Ublue followed. And Antheas was indeed eventually banned from Bazzite, its github, and social channels.

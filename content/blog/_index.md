@@ -10,7 +10,7 @@ in_search_index = true
 
 # <p style="text-align: center;"><span style="color: #a6e3a1;">Pencils, Pixels, And Mics</span></p>
 
-![Alt text](https://cdn.discordapp.com/attachments/664596885029257238/1449975873070698669/SimonBunnyBwarch.png?ex=6940dac3&is=693f8943&hm=c6d1d69ac8c755c7fbeccc0a7a5fde9fb168e75b7e8539427c2e0054134e622e& "Art of my persona by nectarnymph.bsky.social")
+![Alt text](/bunnyxeniabyflora.png "Art of my persona by nectarnymph.bsky.social")
 
 <p style="text-align: center;">Welcome to my personal blog</p>
 

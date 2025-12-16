@@ -32,6 +32,7 @@
 		{% block content %}{% endblock content %}
 	</main>
 <link rel="stylesheet" href="{{ get_url(path='fonts.css') }}">
+<link rel="stylesheet" href="{{ get_url(path='comments.css') }}">
 <link
   rel="preload"
   href="/fonts/MapleMono-Regular.ttf"
@@ -46,9 +47,13 @@
   type="font/otf"
   crossorigin
 >
+<script type="module">
+  import "https://esm.sh/bluesky-comments-tag/load";
+</script>
 	{% include "partials/footer.html" %}
 	{% include "partials/extra_features.html" %}
 	{% include "partials/strings.html" %}
 {% endblock body %}
 </body>
 </html>
+

@@ -1,0 +1,27 @@
+.post-author {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    white-space: nowrap;
+}
+
+.post-author-avatar {
+    display: inline-block !important;
+    width: 4.0em;
+    height: 4.0em;
+    margin: 0 !important;
+    border-radius: 999px;
+    object-fit: cover;
+    vertical-align: middle;
+}
+/* Metadata row container */
+.post-meta,
+.article-meta,
+.post-header-meta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    text-align: center;
+}

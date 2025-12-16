@@ -51,7 +51,7 @@ source_url = "https://github.com/XeniaMeraki/XeniaMeraki.com"
 #   "ALSO_YOUR_STYLE.css"
 # ]
 styles = [
-   "fonts.css"
+   "main.css"
 ]
 #
 # Additional JavaScript scripts; expects them to be in the "./static/" directory.
@@ -172,9 +172,11 @@ show_qr = true
 #
 # Your GoatCounter username
 #user = "duckquill"
-
 #[extra.debug]
 # Display outlines around all elements for debugging purposes
 #layout = false
 # Don't load any styles for debugging purposes
 #no_styles = false
+[extra.authors."Xenia Meraki"]
+avatar = "/bunnyxeniabyflora.png"
+url = "/"

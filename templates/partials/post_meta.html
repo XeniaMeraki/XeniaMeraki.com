@@ -1,0 +1,13 @@
+{% if page.author %}
+<div class="post-author">
+  {% if page.extra.author.avatar %}
+    <img
+      class="post-author-avatar"
+      src="{{ page.extra.author.avatar }}"
+      alt="{{ page.extra.author.alt | default(value=page.author) }}"
+      loading="lazy"
+    >
+  {% endif %}
+  <span class="post-author-name">{{ page.author }}</span>
+</div>
+{% endif %}

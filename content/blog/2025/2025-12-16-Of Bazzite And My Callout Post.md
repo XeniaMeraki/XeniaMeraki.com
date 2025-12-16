@@ -4,9 +4,6 @@ authors = ["Xenia Meraki"]
 [taxonomies]
 tags = ["Linux", "Life", "Politics", "Tech"]
 [extra]
-disclaimer = """
-- This post covers verbal abuse, toxic workplace type stuff, and also has a trans slur bit at the end
-""" 
 go_to_top = true 
 in_search_index = true
 [extra.comments]
@@ -14,6 +11,9 @@ host = "transfem.social"
 user = "xeniameraki"
 id = "agcqw1eenao50445"
 +++
+
+> [!Caution]
+> This post covers verbal abuse, toxic workplace type stuff
  
 So! Past week has been interesting. On Dec 10th [Amelia](https://bsky.app/profile/ameliasvg.bsky.social/post/3m7nc2ukjds2k) and [I](https://bsky.app/profile/xeniameraki.bsky.social/post/3m7nejl4qxs22) jointly went through with our callout posts of pushing for Bazzite/Universal Blue to apply by their own Code of Conduct, and ban a toxic, basically abusive dev on their team. Shortly after a good few devs in Ublue followed. And Antheas was indeed eventually banned from Bazzite, its github, and social channels.
 
@@ -67,7 +67,7 @@ Try and not have this situation occur by you, and occur in your communities. Spr
 
 I HATE callout posts. I hate callout post culture. More often than not it's very simple stuff that is no one's business but between the callout-er and callout-ee. More often than not they are leveraged as weapons against racial and gender minorities. More often than not they are leveraged as a weapon against someone's simple and benign sexual kinks. To a degree I wish I'd gone about things differently, gone to the head Bazzite maintainer(s) in private with my concerns... I'm sorry for not doing so. I was just frustrated at seeing this long line of offenses. Frustrated at seeing daily arguments and pissing fests in the dev discord channel.
 
-I'd rather not have gone after this man's casual hobby to be quite honest. It's not really my Thing to be a drama hound and get people ejected or fired from places. Bazzite will suffer on a technical level now. [link](Bazzite is always open to new devs and contributors just sayin'!) I am happy that these spaces can heal now but it's bittersweet. I would rather Antheas have just learned and listened and apologized and done better. I've done and said things I regret and I either apologized for or wish I apologized for. I believe in most people's capacity to be kind and open to learning.
+I'd rather not have gone after this man's casual hobby to be quite honest. It's not really my Thing to be a drama hound and get people ejected or fired from places. Bazzite will suffer on a technical level now. [https://github.com/ublue-os/bazzite/](Bazzite is always open to new devs and contributors just sayin'!) I am happy that these spaces can heal now but it's bittersweet. I would rather Antheas have just learned and listened and apologized and done better. I've done and said things I regret and I either apologized for or wish I apologized for. I believe in most people's capacity to be kind and open to learning.
 
 ![Alt text](https://cdn.discordapp.com/attachments/664596885029257238/1450424822986182767/unknown.png?ex=69427ce1&is=69412b61&hm=eee83c17749a9f09db54f2acd664837cac5fda37ef1af8532a37bfeed6f65010&
  "A discord screenshot. Xenia: Empty ass promises of apology, minimizes any and all errors he did, promises to apologize, does nothing, kicked out. The only thing that matters is the work. Not users, not devs/coworkers/peers, not feelings, only the raw product. Shielded user: capitalist behavior. Shielded user: a bit fascist behavior tbh. These walk together anyway.")
@@ -75,6 +75,6 @@ I'd rather not have gone after this man's casual hobby to be quite honest. It's 
 > [!CAUTION]
 > Trans slur
 
-One thing: In my initial callout post, I pointed out how Antheas had used in casual conversation what I thought was an allusion to a trans slur "troon". In later discord messages he has said that he didn't know that slur existed, and it was a play on "Playtron" and "goon". Your guess is as good as mine if that's legitimately true. It ultimately doesn't matter if a small part of the thing I was wrong about, but I do feel bad about it if it's true because for a lot of people what jumps out at them is the trans slur usage and is most egregious. I LEGITIMATELY don't know, I think I was wrong on the cuff on that one. I am hyper vigilante on trans slurs, I'm trans. Antheas is not trans and can be forgiven not knowing that one. The overall point is still the same.
+One thing: In my initial callout post, I pointed out how Antheas had used in casual conversation what I thought was an allusion to a trans slur "troon". In later [discord messages](https://cdn.discordapp.com/attachments/664596885029257238/1450635104413286450/unknown.png?ex=694340b8&is=6941ef38&hm=60ff4480f0fdd8d3e159cb2a998405ecf710ae80aec2b432ef0f8cc4dad614b5&) he has said that he didn't know that slur existed, and it was a play on "Playtron" and "goon". Your guess is as good as mine if that's legitimately true. It ultimately doesn't matter if a small part of the thing I was wrong about, but I do feel bad about it if it's true because for a lot of people what jumps out at them is the trans slur usage and is most egregious. I LEGITIMATELY don't know, I think I was wrong on the cuff on that one. I am hyper vigilante on trans slurs, I'm trans. Antheas is not trans and can be forgiven not knowing that one. The overall point is still the same.
 
-This all feels... very familiar. I used to be a bit of a control freak. Used to be a bad moderator. Had my modship of a forum wrested from me. I'm wistful. Were it things could be different.
+This all feels... very familiar. I used to be a bit of a control freak. Used to be a bad moderator. Still am a bit of a control freak to a certain degree. Had my modship of a forum wrested from me. I'm wistful. Were it things could be different.

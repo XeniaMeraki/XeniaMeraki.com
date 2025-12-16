@@ -14,7 +14,6 @@ taxonomies = [{ name = "tags", feed = true }]
 # Based on https://github.com/welpo/tabi
 # Theme: https://duckquill.daudix.one/
 [markdown]
-unsafe = true
 highlight_code = true
 highlight_theme = "css"
 highlight_themes_css = [
@@ -157,14 +156,13 @@ show_source = true
 #
 # These variables are also used for Mastodon verification,
 # the needed rel="me" link is set in the head based on these.
-# [extra.comments]
-# enabled = false
-# Your Mastodon API host; instance that you have an account on.
-# host = "bsky.social"
-# Your Mastodon username; used to determine who the original poster is.
-# user = "xeniameraki"
-# Whether to show the QR code to Mastodon post
-#show_qr = true
+[extra.comments]
+#Your Mastodon API host; instance that you have an account on.
+host = "transfem.social"
+#Your Mastodon username; used to determine who the original poster is.
+user = "xeniameraki"
+#Whether to show the QR code to Mastodon post
+show_qr = true
 
 # GoatCounter analytics; enabled only if present in config.
 #[extra.goatcounter]

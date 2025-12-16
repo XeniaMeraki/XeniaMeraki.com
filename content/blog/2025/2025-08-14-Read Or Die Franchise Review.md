@@ -112,13 +112,3 @@ And I don’t think showing it to more people will change much. People are gener
 Thank you for reading! My ask box is open to anonymous comments if you loved what I wrote, want to tell me your own opinions on Read Or Die, or want to criticize me for anything I wrote here. (Sorry!) Watch Read Or Die (OVA) on your anime site of choice!
 
 [A link to the original tumblr post this blog post is adapted from](https://xeniameraki.tumblr.com/post/791895434638557184/read-or-die-franchise-review)
-
-<!-- Use the element -->
-<bluesky-comments url="https://bsky.app/profile/panicrestaurant.bsky.social/post/3m7tufwzrok2u">
-</bluesky-comments>
-<!-- Include the script tag anywhere -->
-<script type="module">
-  import "https://esm.sh/bluesky-comments-tag/load";
-</script>
-
-Be

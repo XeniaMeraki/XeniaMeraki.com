@@ -4,7 +4,7 @@ title = "Home"
 go_to_top = true
 +++
 # <p style="text-align: center;"><span style="color: #a6e3a1;">Xenia Meraki</span></p>
-> My web prescence and this website are 18+ past this first page. I expect and depend on most people I interact with being adults. Please leave if you are a minor. By proceeding past this title page or clicking on any links you agree you are over the age of 18
+> My web presence and this website are 18+ past this first page. I expect and depend on most people I interact with being adults. Please leave if you are a minor. By proceeding past this title page or clicking on any links you agree you are over the age of 18
 
 Heya hiya! I’m a trans woman and general online creator. I’m a vtuber, fantasy fiction writer, containerfile smith, and musician. I love tech nerdery and art and artists. I’m a communist/progressive/leftist. I’m pan, and I have a great many mental differences, including autism and ADHD.
 

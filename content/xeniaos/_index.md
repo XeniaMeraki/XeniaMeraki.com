@@ -1,7 +1,6 @@
 +++
-insert_anchor_links = "left"
-title = "XeniaOS"
 +++
+# <p style="text-align: center;"><span style="color: #fab387;">XeniaOS</span></p>
 {% crt() %}
 ```
        !`              @                  ☆ﾟ.*･｡ﾟXeniaOS ﾟ｡･*.ﾟ☆
@@ -38,5 +37,6 @@ XeniaOS is my baby. It's a linux-based bootc image that's personalized to my lik
 
 You can check it out over at <https://github.com/XeniaMeraki/XeniaOS>
 
-If you install either Aurora or Bluefin first, it can be rebased to with
-`sudo bootc switch ghcr.io/xeniameraki/xeniaos:latest`
+If you install either [Aurora](https://getaurora.dev/en) or [Bluefin](https://projectbluefin.io/) first, it can be rebased to with
+
+<mark>sudo bootc switch ghcr.io/xeniameraki/xeniaos:latest</mark>

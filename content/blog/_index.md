@@ -10,9 +10,7 @@ in_search_index = true
 
 # <p style="text-align: center;"><span style="color: #a6e3a1;">Pencils, Pixels, And Mics</span></p>
 
-![Alt text](/bunnyxeniabyflora.png "Art of my persona by nectarnymph.bsky.social")
-
-<p style="text-align: center;">Welcome to my personal blog</p>
+[![Alt text](/bunnyxeniabyflora.png)](https://bsky.app/profile/nectarnymph.bsky.social "Art of my persona by nectarnymph.bsky.social")
 
 <p style="text-align: center;">I write about <span style="color: #fab387;">feelings and life</span></p>
 

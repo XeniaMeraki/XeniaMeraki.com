@@ -2,7 +2,7 @@
 title = "Of Bazzite And My Callout Post"
 authors = ["Xenia Meraki"]
 [taxonomies]
-tags = ["Linux", "Life", "Politics", "Tech"]
+tags = ["Linux", "Life", "Tech"]
 [extra]
 go_to_top = true 
 in_search_index = true
@@ -27,19 +27,19 @@ Antheas_ has been a thorn in the side of Bazzite and FOSS spaces in general for 
 
 Let's rapid-fire.
 
-<mark>Antheas</mark>: ["Take it seriously, it's better to take abuse"](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qi7bjhn5fritvovizwf6z4o7/bafkreie5h2r22muvnlfaukppmtue55my5ob5zys4dil344to6jyofnwcwe@jpeg) (from users to devs for the purposes of tech support)</mark>
+<mark>Antheas</mark>: ["Take it seriously, it's better to take abuse"](https://files.catbox.moe/gh2p3c) (from users to devs for the purposes of tech support)</mark>
 
 <mark>Synbi</mark>: "Banning someone who's harassing people - even if those people are mods - will not have a negative affect to the community"
 
 <mark>Antheas</mark>: "It does."
 
-<mark>Antheas</mark>, when being told of an exceptionally talented dev in Ublue being hired by another company: "Hey, they [sponsored](https://cdn.discordapp.com/attachments/1366140954351894693/1450377796282220564/unknown.png?ex=69425115&is=6940ff95&hm=ac7b86afdda947c02efbaf8307d04e4969326c1259ab5f957548e5fc91c584d4&) your *intern*, so you're doing god's work" (Emphasis mine)
+<mark>Antheas</mark>, when being told of an exceptionally talented dev in Ublue being hired by another company: "Hey, they [sponsored](https://files.catbox.moe/zmhkfd.png) your *intern*, so you're doing god's work" (Emphasis mine)
 
-<mark>Antheas</mark>: "[I get to dictate](https://cdn.discordapp.com/attachments/1366140954351894693/1450379132776218624/unknown.png?ex=69425253&is=694100d3&hm=94dee8bec58e1c643a272ee933a79ad21a714e5c4ddc03d989dea2e26cd8d198&) a part of Bazaar's decisions" (A brilliant software flatpak not developed by him, not developed by Bazzite or Ublue)
+<mark>Antheas</mark>: "[I get to dictate](https://files.catbox.moe/73oz20.png) a part of Bazaar's decisions" (A brilliant software flatpak not developed by him, not developed by Bazzite or Ublue)
 <mark>Jorge</mark>: You most certainly DO NOT
 
 When hearing about my callout post:
-<mark>Antheas</mark>: "[Random user](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qi7bjhn5fritvovizwf6z4o7/bafkreigha5624s4ithuifxtn5d3l6qvdjlz43dl6duf6sztes4mp6zo45m@jpeg) that didn't use Bazzite gets triggered"
+<mark>Antheas</mark>: "[Random user](https://files.catbox.moe/00ql9k.jpg) that didn't use Bazzite gets triggered"
 "We'll figure out the details later"
 
 <mark>Antheas</mark>: "Currently the only feature that works correctly in InputPlumber [A "competing" open source software to HHD] is the qam button"
@@ -52,11 +52,11 @@ When hearing about my callout post:
 
 When hearing a dev talking about herself being harassed in another server, <mark>Antheas</mark>: "What is this with other discord servers bringing their problems here?" (From the Bazaar developer, the software he supposedly had "a say in", until its developer was facing harassment)
 
-<mark>Antheas</mark>: "[At this point](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qi7bjhn5fritvovizwf6z4o7/bafkreiamkffg7nxowmxl5oc66xwpvpux3qy4chhji6k7plus2xjx3dw4ji@jpeg) "Make (x) Great Again!" is part of US pop culture and cannot be considered a dog whistle anymore" (When telling other devs they were wrong to immediately trash on a user submission to Bazzite that brought up the infamous dog whistle)(Side note: AH YES IT'S DEFINITELY OKAY TO BRING UP THIS DOG WHISTLE ON FUCKING GITHUB OF ALL THINGS. I AM VERY INTELLIGENT. GEE I WONDER IF FASCISM EVER INFILTRATES AMERICAN POP CULTURE.)</mark>
+<mark>Antheas</mark>: "[At this point](https://files.catbox.moe/fu675q) "Make (x) Great Again!" is part of US pop culture and cannot be considered a dog whistle anymore" (When telling other devs they were wrong to immediately trash on a user submission to Bazzite that brought up the infamous dog whistle)(Side note: AH YES IT'S DEFINITELY OKAY TO BRING UP THIS DOG WHISTLE ON FUCKING GITHUB OF ALL THINGS. I AM VERY INTELLIGENT. GEE I WONDER IF FASCISM EVER INFILTRATES AMERICAN POP CULTURE.)</mark>
 
 Okay hold up, zoom in.
 
-![Alt text](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qi7bjhn5fritvovizwf6z4o7/bafkreigha5624s4ithuifxtn5d3l6qvdjlz43dl6duf6sztes4mp6zo45m@jpeg
+![Alt text](https://files.catbox.moe/00ql9k.jpg
  "A discord screenshot. Antheas: Random user that didn't use Bazzite gets triggered. We'll figure out the details later.")
 
  THIS IS ABOUT ME AND MY POST. WHICH IF HE FUCKING READ PROPERLY MAYBE HE'D REALIZE THIS ISN'T EVEN MAJORITY ABOUT ME, THIS IS ABOUT VARIOUS DEVS AND VARIOUS TEAMS BEING FED UP WITH HIM. BAZZITE, BLUEFIN, CHIMERAOS, INPUTPLUMBER, AURORA, BAZAAR. HE'D ALREADY BEEN BANNED BY CHIMERAOS FOR POOR CONDUCT AND LEARNED FUCKING NOTHING FROM THE EXPERIENCE. WHAT OF THE DECISION OF THE BAZZITE LOGO ARTIST TO LEAVE THE DISCORD BECAUSE OF YOU? I'd been hanging around the Bazzite server and doing small projects and community work on it for a year? I'M ACTUALLY LITERALLY PARTIALLY DOING BAZZITE TECH SUPPORT FOR FUNSIES OUT OF THE GOODNESS OF MY HEART FOR THE BETTER PART OF THIS YEAR. AND YES I DO FUCKING USE AND HAVE USED BAZZITE YOU INSIPID GREMLIN, FOR INDEED A FULL YEAR NOW.
@@ -69,12 +69,11 @@ I HATE callout posts. I hate callout post culture. More often than not it's very
 
 I'd rather not have gone after this man's casual hobby to be quite honest. It's not really my Thing to be a drama hound and get people ejected or fired from places. Bazzite will suffer on a technical level now. [https://github.com/ublue-os/bazzite/](Bazzite is always open to new devs and contributors just sayin'!) I am happy that these spaces can heal now but it's bittersweet. I would rather Antheas have just learned and listened and apologized and done better. I've done and said things I regret and I either apologized for or wish I apologized for. I believe in most people's capacity to be kind and open to learning.
 
-![Alt text](https://cdn.discordapp.com/attachments/664596885029257238/1450424822986182767/unknown.png?ex=69427ce1&is=69412b61&hm=eee83c17749a9f09db54f2acd664837cac5fda37ef1af8532a37bfeed6f65010&
- "A discord screenshot. Xenia: Empty ass promises of apology, minimizes any and all errors he did, promises to apologize, does nothing, kicked out. The only thing that matters is the work. Not users, not devs/coworkers/peers, not feelings, only the raw product. Shielded user: capitalist behavior. Shielded user: a bit fascist behavior tbh. These walk together anyway.")
+[![Alt text](https://files.catbox.moe/0dq6ni.png)](https://files.catbox.moe/0dq6ni.png "A discord screenshot. Xenia: Empty ass promises of apology, minimizes any and all errors he did, promises to apologize, does nothing, kicked out. The only thing that matters is the work. Not users, not devs/coworkers/peers, not feelings, only the raw product. Shielded user: capitalist behavior. Shielded user: a bit fascist behavior tbh. These walk together anyway.")
  
 > [!CAUTION]
 > Trans slur
 
-One thing: In my initial callout post, I pointed out how Antheas had used in casual conversation what I thought was an allusion to a trans slur "troon". In later [discord messages](https://cdn.discordapp.com/attachments/664596885029257238/1450635104413286450/unknown.png?ex=694340b8&is=6941ef38&hm=60ff4480f0fdd8d3e159cb2a998405ecf710ae80aec2b432ef0f8cc4dad614b5&) he has said that he didn't know that slur existed, and it was a play on "Playtron" and "goon". Your guess is as good as mine if that's legitimately true. It ultimately doesn't matter if a small part of the thing I was wrong about, but I do feel bad about it if it's true because for a lot of people what jumps out at them is the trans slur usage and is most egregious. I LEGITIMATELY don't know, I think I was wrong on the cuff on that one. I am hyper vigilante on trans slurs, I'm trans. Antheas is not trans and can be forgiven not knowing that one. The overall point is still the same.
+One thing: In my initial callout post, I pointed out how Antheas had used in casual conversation what I thought was an allusion to a trans slur "troon". In later [discord messages](https://files.catbox.moe/giqeqz.png) he has said that he didn't know that slur existed, and it was a play on "Playtron" and "goon". Your guess is as good as mine if that's legitimately true. It ultimately doesn't matter if a small part of the thing I was wrong about, but I do feel bad about it if it's true because for a lot of people what jumps out at them is the trans slur usage and is most egregious. I LEGITIMATELY don't know, I think I was wrong on the cuff on that one. I am hyper vigilante on trans slurs, I'm trans. Antheas is not trans and can be forgiven not knowing that one. The overall point is still the same.
 
 This all feels... very familiar. I used to be a bit of a control freak. Used to be a bad moderator. Still am a bit of a control freak to a certain degree. Had my modship of a forum wrested from me. I'm wistful. Were it things could be different.

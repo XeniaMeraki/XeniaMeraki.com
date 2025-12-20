@@ -1,0 +1,7 @@
+{%- set n = n | default(value=4) | int -%}
+<span class="indent">
+{%- for _ in range(end=n) -%}
+&#8195;
+{%- endfor -%}
+</span>
+

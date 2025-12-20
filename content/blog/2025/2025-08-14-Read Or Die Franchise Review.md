@@ -85,7 +85,7 @@ Yomiko Readman is pretty sexy. She’s understated about it a bit in the OVA, ve
 
 She wears an overcoat that usually covers her figure, but the manga and tv series and light novels highly accent her, well, breasts.
 
-![Alt text](https://64.media.tumblr.com/83c97d59c5589c35b7077f23253cb4ca/e83a7819b61fb8a4-b6/s1280x1920/aa8c35c1b831af64a9155ce6abd3f2de89f14e66.png "The cover of a ROD Light Novel, of Yomiko lying asleep on a bed, glass askew, her figure prominently displayed although clothed"
+![Alt text](https://64.media.tumblr.com/83c97d59c5589c35b7077f23253cb4ca/e83a7819b61fb8a4-b6/s1280x1920/aa8c35c1b831af64a9155ce6abd3f2de89f14e66.png "The cover of a ROD Light Novel, of Yomiko lying asleep on a bed, glass askew, her figure prominently displayed although clothed")
 
 I don’t hate it personally. I find it interesting just how much the OVA doesn’t highlight her figure or frame her sexually, but the rest of the franchise does. Despite being anime/despite being an OVA where sexiness is very often part of the selling point.
 
@@ -95,7 +95,7 @@ Though despite that I do overall like that first arc anyway, and I do love Yomik
 
 To boot, I don’t think Read Or Die as a franchise has very good writing beyond Yomiko’s general character writing. The plots are okay, random things can come and go or come out of nowhere, deus ex machina is a bit rampant, and the themes get betrayed by themselves here and there a bit. I think the franchise is at its best in its visual art. Even the first light novel, being allowed to let loose completely with writing, is just okay, and doesn’t take advantage a ton of being in the writing medium and being allowed a much, much larger word count.
 
-![Alt text](https://64.media.tumblr.com/680b65211f38ecbb846c7f1b5dab77e9/e83a7819b61fb8a4-67/s1280x1920/69ab858b9138d75f3f3e9b5d0f9a63c9945629bf.png "Manga: Joker monologuing from a helicopter over a battling Yomiko and fire powers lady, saying the titular 'READ OR DIE?'"
+![Alt text](https://64.media.tumblr.com/680b65211f38ecbb846c7f1b5dab77e9/e83a7819b61fb8a4-67/s1280x1920/69ab858b9138d75f3f3e9b5d0f9a63c9945629bf.png "Manga: Joker monologuing from a helicopter over a battling Yomiko and fire powers lady, saying the titular 'READ OR DIE?'")
 
 Despite all that and despite any criticisms I do really love this franchise. I really wish I could read the rest of the light novels. I’m actually SUPER curious what’s inside [based on the illustrations](https://www.baka-tsuki.org/project/index.php?title=Read_or_Die#_Volume_1). I’m so sad I can’t read them without learning the language, and so sad despite the overall franchise’s popularity they were never worth official translation by the IP holders. I love Yomiko Readman, her nerdy nature and sunny disposition. I love the plots putting her through stress and depression, and her coming out the opposite end still smiling. I think being able to go through terrible events and still be happy and not let it scar her is, perhaps a bit sexist on the creators parts, but also goals and commendable.
 

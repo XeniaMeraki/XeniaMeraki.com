@@ -15,7 +15,7 @@ id = "agji5fpaitft01np"
 > [!Caution]
 > Stomach disease, so, diarrhea and blood are mentioned
  
-<span style="color: #a6e3a1;">**S**o,</span> lemme tell y'all about the year I almost **mc-fucking-died**.
+<span style="color: #a6e3a1;">So,</span> lemme tell y'all about the year I almost **mc-fucking-died**.
 
 {{ indent (n=2) }}It's 2020, height of the covid pandemic. My family needs money so I'm doing Doordash to pay for part of the bills. I am stressed... Out of my goddamn mind. The pandemic and masking and lack of vaccines and finances are weighing on me. My family is refusing to vaccinate. I'm having problems with the job. I deal with clinical anxiety in myself. There's always something going wrong everyday when you're doing Doordash. We accidentally don't pick up all items. The restaurant doesn't GIVE us all items. The customer puts in a wrong or badly done address. Making calls and texts, sometimes not picked up of course. Navigating labyrinthian apartment complexes in the dark. Oh the app has gone down and we're stranded with hot food going cold. We keep getting 3 dollar order requests (no tip) and the app is silently pushing us to accept them anyway even though we'd lose money making 6 dollars an hour taking 3 dollar orders that take 30mins a piece to do on average.
 

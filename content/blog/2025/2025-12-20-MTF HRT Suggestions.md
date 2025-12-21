@@ -15,13 +15,13 @@ id = "aghv22b6x14q0foo"
 > [!CAUTION]
 > This article touches on some aspects of sex ed
 
-{{ dropcap(letter="O") }}kay so the way this post is gonna work is 
+<span style="color: #a6e3a1;">Okay</span> so the way this post is gonna work is 
 
 1) This is not medical advice, these are medical *opinions*. 
 
 2) I am going to start with simple, easy wins, nearly objective facts, and get into personal opinions and hypothetical territory as I go along, hopefully sign post it as we go. 
 
-These medical opinions are for the inquistive potential transfeminine individuals and nonbinary pals wanting some feminine traits, but focusing on individuals who want As Much Femininity As Possible As Fast As Possible. [Nonbinary transfem pals click here](https://transfemscience.org/articles/nonbinary-transfem-overview) This advice comes from and thus is primarily meant for the <span style="color: #f38ba8;">american market</span>, your local situation may be different. Also, not a doctor, just a transfem who has been using and researching for a couple years.
+{{ indent (n=2) }}These medical opinions are for the inquistive potential transfeminine individuals and nonbinary pals wanting some feminine traits, but focusing on individuals who want As Much Femininity As Possible As Fast As Possible. [Nonbinary transfem pals click here](https://transfemscience.org/articles/nonbinary-transfem-overview) This advice comes from and thus is primarily meant for the <span style="color: #f38ba8;">american market</span>, your local situation may be different. Also, not a doctor, just a transfem who has been using and researching for a couple years.
 
 {{ indent (n=2) }}Obvious out of the way, transfem individuals will take estradiol to receive feminine traits and lessen masculine ones. <span style="color: #f5c2e7;">Hormone Replacement Therapy</span>. The goal is typically to reduce testosterone and raise estradiol. US healthcare safe fields for this and normal hormone levels to aim for will be 100-400pg/mL estradiol (100+ simply gaurantees feminization) and 15-75ng/dL testosterone. Tested normally at "trough", the 6th day of 7 day injection cycle. Transfems will usually start at near 0 estradiol and 400-600 testosterone at the beginning of therapy/before therapy. We're decently sure that too high of levels of estradiol are harmful, even on extremely safe HRT injections.
 [[x](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy)] 
@@ -142,6 +142,6 @@ In summation, the biggest problems in US trans healthcare I personally see:
 - Political Healthcare Climate
 - cis people/cis family/cis doctors
 - wait lists (you should be seen within a week of deciding you want hrt fyi)
-- Insurance
+- <span style="color: #fab387;">Insurance</span>
 
 [![Alt text](https://files.catbox.moe/qlcsr6.gif)](https://files.catbox.moe/qlcsr6.gif)

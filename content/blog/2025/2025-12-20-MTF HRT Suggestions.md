@@ -15,7 +15,7 @@ id = "aghv22b6x14q0foo"
 > [!CAUTION]
 > This article touches on some aspects of sex ed
 
-{{ dropcap(letter="O") }}&#8203;kay so the way this post is gonna work is 
+{{ dropcap(letter="O") }}kay so the way this post is gonna work is 
 
 1) This is not medical advice, these are medical *opinions*. 
 

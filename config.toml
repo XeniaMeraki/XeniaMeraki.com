@@ -164,7 +164,7 @@ host = "transfem.social"
 #Your Mastodon username; used to determine who the original poster is.
 user = "xeniameraki"
 #Whether to show the QR code to Mastodon post
-show_qr = true
+show_qr = false
 
 # GoatCounter analytics; enabled only if present in config.
 #[extra.goatcounter]

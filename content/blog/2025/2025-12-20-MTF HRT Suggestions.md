@@ -121,11 +121,15 @@ I recommend highly for further reading the resources of
 
 My own HRT results/journey [bluesky thread](https://bsky.app/profile/xeniameraki.bsky.social/post/3luyv7w3ifs2i)
 
-Katie's [DIY HRT guide](https://pghrt.diy/)
+Katie's [DIY HRT guide](https://pghrt.diy)
 
-[transfemscience.org, a collection of data and calculators](https://transfemscience.org/>)
+[transfemscience.org, a collection of data and calculators](https://transfemscience.org)
 
 The many lies of transphobes: [A 5 hour video essay](https://youtu.be/JiOc0r31-Os)
+
+Trans people are highly correlated with autistic individuals. Autism is heavily demonized in our current society, it may help to know Why and Where that comes from: [HBomberGuy's 2 hour video essay on the lies of vaccines falsely correlated with Autism](https://youtu.be/8BIcAZxFfrc)
+
+Being trans is not a bad thing. Being autistic is not a bad thing. Getting vaccines for yourself and others improves the overall health of yourself and society. There is no good reason to demonize any of these things.
 
 In summation, the biggest problems in US trans healthcare I personally see:
 - 1mg oral estradiol (sometimes without antiandrogen)

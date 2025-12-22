@@ -39,7 +39,7 @@ accent_color = "#40a02b"
 accent_color_dark = "#a6e3a1"
 # Whether to use fonts bundled with Duckquill instead of system ones.
 # Keep in mind that it also changes the style of headings.
-emoji_favicon = "🦊"
+# emoji_favicon = "🦊"
 bundled_fonts = true
 # URL to website's source code
 source_url = "https://github.com/XeniaMeraki/XeniaMeraki.com"

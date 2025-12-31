@@ -1,7 +1,8 @@
 +++
+title = "Links"
 +++
 # <p style="text-align: center;"><span style="color: #fab387;">Links</span></p>
-
+ 
 ### Contact me
 <mailto:xeniameraki@protonmail.com>
 

@@ -1,11 +1,11 @@
 +++
+title = "Blog"
 sort_by = "date"
 template = "article_list.html"
 page_template = "article.html"
 paginate_by = 10
 generate_feeds = true
 in_search_index = true
-[extra]
 +++
 
 # <p style="text-align: center;"><span style="color: #a6e3a1;">Pencils, Pixels, And Mics</span></p>

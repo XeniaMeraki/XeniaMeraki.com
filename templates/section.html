@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% if not page.extra.hide_title %}
+	<h1>{{ page.title }}</h1>
+{% endif %}
+{% block content %}
+{%- include "partials/statements.html" -%}
+{%- if section.extra.toc and not section.extra.toc_sidebar -%}
+{%- include "partials/toc.html" -%}
+{%- endif -%}
+{{ section.content | safe }}
+{% endblock content %}

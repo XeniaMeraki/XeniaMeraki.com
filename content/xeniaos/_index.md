@@ -1,4 +1,5 @@
 +++
+title = "XeniaOS"
 +++
 # <p style="text-align: center;"><span style="color: #fab387;">XeniaOS</span></p>
 {% crt() %}
@@ -37,6 +38,6 @@ XeniaOS is my baby. It's a linux-based bootc image that's personalized to my lik
 
 You can check it out over at <https://github.com/XeniaMeraki/XeniaOS>
 
-If you install either [Aurora](https://getaurora.dev/en) or [Bluefin](https://projectbluefin.io/) first, it can be rebased to with
+If you install [Zirconium](https://github.com/zirconium-dev/zirconium) first, it can be rebased to with
 
 <mark>sudo bootc switch ghcr.io/xeniameraki/xeniaos:latest</mark>

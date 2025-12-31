@@ -2,3 +2,8 @@
     display: inline;
     white-space: nowrap;
 }
+
+/* Hide Duckquill's auto title on section pages only */
+.section-page h1:first-of-type {
+    display: none;
+}

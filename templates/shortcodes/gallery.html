@@ -1,0 +1,9 @@
+{% set images = images | split(pat=",") %}
+
+<div class="inline-gallery">
+  {% for url in images %}
+    <a href="{{ url | trim }}" target="_blank" rel="noopener">
+      <img src="{{ url | trim }}" loading="lazy" />
+    </a>
+  {% endfor %}
+</div>

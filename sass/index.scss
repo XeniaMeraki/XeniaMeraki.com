@@ -1,0 +1,41 @@
+#buttons {
+
+  // Cap image sizes.
+  img {
+    max-width: 88px;
+    max-height: 31px;
+  }
+
+  // Flexbox.
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+
+  // Are we smol?
+  @media (max-width: 600px) {
+    // If so, flexible layout (vertical.)
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  // Are we not smol?
+  @media (min-width: 600px) {
+    // If so, flexible layout (horizontal.)
+    flex-direction: row;
+  }
+
+  // Padding.
+  padding: 2px;
+
+  >* {
+    // Border for individual elements.
+    border-style: solid;
+    border-width: 2px;
+
+    // Take as much space as needed; not more;
+    width: fit-content;
+    height: fit-content;
+  }
+
+}

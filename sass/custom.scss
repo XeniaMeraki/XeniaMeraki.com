@@ -7,3 +7,20 @@
 .section-page h1:first-of-type {
     display: none;
 }
+
+#buttons {
+display: flex;
+gap: 0.75rem;
+align-items: center;
+justify-content: center; /* optional */
+margin: 1rem 0;
+}
+
+#buttons a {
+display: inline-block;
+}
+
+#buttons img {
+image-rendering: pixelated;
+height: 31px;
+}

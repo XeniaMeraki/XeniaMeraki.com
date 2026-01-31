@@ -42,6 +42,9 @@ title = "Links"
 ### Github
 <https://github.com/XeniaMeraki>
 
+### Add my button to your website!
+```<a href="https://xeniameraki.com/" target="_blank"><img src="https://files.catbox.moe/zxogms.png" alt="Xenias' button"></a>```
+
 ## Friends to Xenia / Partner Websites
 
 <div id="buttons">

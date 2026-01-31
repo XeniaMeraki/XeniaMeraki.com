@@ -14,15 +14,14 @@ taxonomies = [{ name = "tags", feed = true }]
 # Based on https://github.com/welpo/tabi
 # Theme: https://duckquill.daudix.one/
 [markdown]
-highlight_code = true
-highlight_theme = "css"
-highlight_themes_css = [
-	{ theme = "solarized-dark", filename = "syntax-theme-dark.css" },
-	{ theme = "solarized-light", filename = "syntax-theme-light.css" }
-]
 smart_punctuation = true
 bottom_footnotes = true
 github_alerts = true
+
+[markdown.highlighting]
+light_theme = "solarized-light"
+dark_theme = "solarized-dark"
+style = "class"
 
 [search]
 # index_format = "elasticlunr_json"

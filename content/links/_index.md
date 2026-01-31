@@ -48,5 +48,5 @@ title = "Links"
     <img src="88x31@1x.png" />
     <a href="https://lumaeris.com/" target="_blank"><img src="https://lumaeris.com/assets/img/88x31.png" alt="Lumaeris' button"></a>
     <a href="https://xeniameraki.com/" target="_blank"><img src="https://files.catbox.moe/zxogms.png" alt="Xenias' button"></a>
-    <a href="https://ffi.lol/" target="_blank"><img src="https://ffi.lol/88x31.png" alt="Alices' button"></a>
+    <a href="https://ffi.lol/" target="_blank"><img src="https://ffi.lol/88x31@1x.png" alt="Alices' 88x31 button"></a>
 </div>
